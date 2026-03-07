@@ -30,4 +30,12 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/tushartime/100-days-of-code/tree/main/0242-valid-anagram/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/tushartime/100-days-of-code/tree/main/0278-first-bad-version/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/tushartime/100-days-of-code/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
