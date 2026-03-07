@@ -12,6 +12,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tushartime/100-days-of-code/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/tushartime/100-days-of-code/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,4 +25,9 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/tushartime/100-days-of-code/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/tushartime/100-days-of-code/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/tushartime/100-days-of-code/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
