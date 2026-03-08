@@ -28,6 +28,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | [0125-valid-palindrome](https://github.com/tushartime/100-days-of-code/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/tushartime/100-days-of-code/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/tushartime/100-days-of-code/tree/main/0409-longest-palindrome/) | Easy |
+| [0067-add-binary](https://github.com/tushartime/100-days-of-code/tree/main/0067-add-binary/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +45,16 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/tushartime/100-days-of-code/tree/main/0409-longest-palindrome/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/tushartime/100-days-of-code/tree/main/0067-add-binary/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/tushartime/100-days-of-code/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/tushartime/100-days-of-code/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
