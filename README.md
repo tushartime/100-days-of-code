@@ -9,6 +9,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | [0001-two-sum](https://github.com/tushartime/100-days-of-code/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tushartime/100-days-of-code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/tushartime/100-days-of-code/tree/main/0217-contains-duplicate/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/tushartime/100-days-of-code/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/tushartime/100-days-of-code/tree/main/0278-first-bad-version/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/tushartime/100-days-of-code/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
