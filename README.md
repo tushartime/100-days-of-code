@@ -12,6 +12,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | [0033-search-in-rotated-sorted-array](https://github.com/tushartime/100-days-of-code/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0057-insert-interval](https://github.com/tushartime/100-days-of-code/tree/main/0057-insert-interval/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/tushartime/100-days-of-code/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0189-rotate-array](https://github.com/tushartime/100-days-of-code/tree/main/0189-rotate-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/tushartime/100-days-of-code/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/tushartime/100-days-of-code/tree/main/0189-rotate-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/tushartime/100-days-of-code/tree/main/0067-add-binary/) | Easy |
+| [0189-rotate-array](https://github.com/tushartime/100-days-of-code/tree/main/0189-rotate-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
