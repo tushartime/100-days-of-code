@@ -18,6 +18,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | [0242-valid-anagram](https://github.com/tushartime/100-days-of-code/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/tushartime/100-days-of-code/tree/main/0409-longest-palindrome/) | Easy |
 | [0217-contains-duplicate](https://github.com/tushartime/100-days-of-code/tree/main/0217-contains-duplicate/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tushartime/100-days-of-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | [0242-valid-anagram](https://github.com/tushartime/100-days-of-code/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/tushartime/100-days-of-code/tree/main/0409-longest-palindrome/) | Easy |
 | [0067-add-binary](https://github.com/tushartime/100-days-of-code/tree/main/0067-add-binary/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tushartime/100-days-of-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,4 +65,8 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/tushartime/100-days-of-code/tree/main/0067-add-binary/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tushartime/100-days-of-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
