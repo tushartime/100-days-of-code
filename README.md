@@ -13,6 +13,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | [0057-insert-interval](https://github.com/tushartime/100-days-of-code/tree/main/0057-insert-interval/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/tushartime/100-days-of-code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0189-rotate-array](https://github.com/tushartime/100-days-of-code/tree/main/0189-rotate-array/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/tushartime/100-days-of-code/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tushartime/100-days-of-code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/tushartime/100-days-of-code/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
