@@ -14,6 +14,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | [0238-product-of-array-except-self](https://github.com/tushartime/100-days-of-code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0189-rotate-array](https://github.com/tushartime/100-days-of-code/tree/main/0189-rotate-array/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/tushartime/100-days-of-code/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/tushartime/100-days-of-code/tree/main/0075-sort-colors/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/tushartime/100-days-of-code/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/tushartime/100-days-of-code/tree/main/0189-rotate-array/) | Medium |
+| [0075-sort-colors](https://github.com/tushartime/100-days-of-code/tree/main/0075-sort-colors/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +47,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/tushartime/100-days-of-code/tree/main/0242-valid-anagram/) | Easy |
 | [0217-contains-duplicate](https://github.com/tushartime/100-days-of-code/tree/main/0217-contains-duplicate/) | Easy |
+| [0075-sort-colors](https://github.com/tushartime/100-days-of-code/tree/main/0075-sort-colors/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
