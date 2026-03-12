@@ -15,6 +15,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | [0189-rotate-array](https://github.com/tushartime/100-days-of-code/tree/main/0189-rotate-array/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/tushartime/100-days-of-code/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/tushartime/100-days-of-code/tree/main/0075-sort-colors/) | Medium |
+| [0724-find-pivot-index](https://github.com/tushartime/100-days-of-code/tree/main/0724-find-pivot-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +83,5 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/tushartime/100-days-of-code/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/tushartime/100-days-of-code/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
