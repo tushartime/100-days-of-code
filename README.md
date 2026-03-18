@@ -71,6 +71,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/tushartime/100-days-of-code/tree/main/0067-add-binary/) | Easy |
+| [0476-number-complement](https://github.com/tushartime/100-days-of-code/tree/main/0476-number-complement/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
