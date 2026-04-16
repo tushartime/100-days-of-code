@@ -43,6 +43,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | [0409-longest-palindrome](https://github.com/tushartime/100-days-of-code/tree/main/0409-longest-palindrome/) | Easy |
 | [0067-add-binary](https://github.com/tushartime/100-days-of-code/tree/main/0067-add-binary/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushartime/100-days-of-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/tushartime/100-days-of-code/tree/main/0020-valid-parentheses/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +86,8 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/tushartime/100-days-of-code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/tushartime/100-days-of-code/tree/main/0724-find-pivot-index/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/tushartime/100-days-of-code/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
