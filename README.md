@@ -17,6 +17,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | [0075-sort-colors](https://github.com/tushartime/100-days-of-code/tree/main/0075-sort-colors/) | Medium |
 | [0724-find-pivot-index](https://github.com/tushartime/100-days-of-code/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/tushartime/100-days-of-code/tree/main/0733-flood-fill/) | Easy |
+| [0200-number-of-islands](https://github.com/tushartime/100-days-of-code/tree/main/0200-number-of-islands/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,11 +109,13 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/tushartime/100-days-of-code/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/tushartime/100-days-of-code/tree/main/0733-flood-fill/) | Easy |
+| [0200-number-of-islands](https://github.com/tushartime/100-days-of-code/tree/main/0200-number-of-islands/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/tushartime/100-days-of-code/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/tushartime/100-days-of-code/tree/main/0733-flood-fill/) | Easy |
+| [0200-number-of-islands](https://github.com/tushartime/100-days-of-code/tree/main/0200-number-of-islands/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +124,9 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/tushartime/100-days-of-code/tree/main/0733-flood-fill/) | Easy |
+| [0200-number-of-islands](https://github.com/tushartime/100-days-of-code/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/tushartime/100-days-of-code/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
