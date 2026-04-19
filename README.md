@@ -92,6 +92,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/tushartime/100-days-of-code/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/tushartime/100-days-of-code/tree/main/0155-min-stack/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +130,8 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/tushartime/100-days-of-code/tree/main/0200-number-of-islands/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/tushartime/100-days-of-code/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
