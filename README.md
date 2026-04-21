@@ -105,12 +105,14 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/tushartime/100-days-of-code/tree/main/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tushartime/100-days-of-code/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/tushartime/100-days-of-code/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/tushartime/100-days-of-code/tree/main/0733-flood-fill/) | Easy |
 | [0200-number-of-islands](https://github.com/tushartime/100-days-of-code/tree/main/0200-number-of-islands/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tushartime/100-days-of-code/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +123,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/tushartime/100-days-of-code/tree/main/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tushartime/100-days-of-code/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
