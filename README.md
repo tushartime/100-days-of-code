@@ -27,6 +27,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | [0409-longest-palindrome](https://github.com/tushartime/100-days-of-code/tree/main/0409-longest-palindrome/) | Easy |
 | [0217-contains-duplicate](https://github.com/tushartime/100-days-of-code/tree/main/0217-contains-duplicate/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushartime/100-days-of-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0146-lru-cache](https://github.com/tushartime/100-days-of-code/tree/main/0146-lru-cache/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tushartime/100-days-of-code/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/tushartime/100-days-of-code/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0146-lru-cache](https://github.com/tushartime/100-days-of-code/tree/main/0146-lru-cache/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/tushartime/100-days-of-code/tree/main/0155-min-stack/) | Medium |
+| [0146-lru-cache](https://github.com/tushartime/100-days-of-code/tree/main/0146-lru-cache/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,4 +155,8 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tushartime/100-days-of-code/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/tushartime/100-days-of-code/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
