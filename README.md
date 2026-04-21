@@ -18,6 +18,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | [0724-find-pivot-index](https://github.com/tushartime/100-days-of-code/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/tushartime/100-days-of-code/tree/main/0733-flood-fill/) | Easy |
 | [0200-number-of-islands](https://github.com/tushartime/100-days-of-code/tree/main/0200-number-of-islands/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tushartime/100-days-of-code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | [0125-valid-palindrome](https://github.com/tushartime/100-days-of-code/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/tushartime/100-days-of-code/tree/main/0189-rotate-array/) | Medium |
 | [0075-sort-colors](https://github.com/tushartime/100-days-of-code/tree/main/0075-sort-colors/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tushartime/100-days-of-code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
