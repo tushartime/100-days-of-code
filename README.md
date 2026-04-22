@@ -19,6 +19,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | [0733-flood-fill](https://github.com/tushartime/100-days-of-code/tree/main/0733-flood-fill/) | Easy |
 | [0200-number-of-islands](https://github.com/tushartime/100-days-of-code/tree/main/0200-number-of-islands/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tushartime/100-days-of-code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/tushartime/100-days-of-code/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Here I challenged myself in maintainig 100 days of code -- DSA , COMMITS , Open 
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tushartime/100-days-of-code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/tushartime/100-days-of-code/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/tushartime/100-days-of-code/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
